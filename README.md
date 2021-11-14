@@ -1,6 +1,6 @@
 # Customized-Directory-Listing-Script
 
-This script was written for a class assignment in my Unix scripting class
+This script was written for a class assignment in my Unix scripting class.
 
 Summary: Prints a customized listing of the contents of a given directory.
 The user can select which files from a normal ls -l command are to be included.
